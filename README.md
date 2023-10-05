@@ -23,4 +23,4 @@
 6. If you want to modify the contents inside the ``CIRCUITPY`` root, you'll need to insert the raspberry pi pico while pressing it's button, and than insert the NUKE file inside the ``Reset`` Folder.
    It will delete every file that you putted inside the ``CIRCUITPY`` root and restore it to factory-settings (witch are the things that were actually inside of the Step1 file).
 
-If you are searching for any payload, it would be usefoul to check: https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
+If you are searching for any payload, it would be usefoul to check: <br>https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads
