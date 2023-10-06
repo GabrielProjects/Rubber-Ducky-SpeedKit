@@ -2,8 +2,12 @@
 
 <div align="center">
   <strong>Make a cheap but powerful USB Rubber Ducky with a Raspberry Pi Pico</strong>
+  <br/><br>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/GabrielProjects/Rubber-Ducky-SpeedKit">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GabrielProjects/Rubber-Ducky-SpeedKit">
+
+
 </div>
-<br />
 
 ## Quick Start Guide
 1. First of all we need to attach the Raspberry Pi Pico to the machine we are usingh thru an USB cable while pressing the button on it.
