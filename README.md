@@ -14,7 +14,7 @@
    As soon as we have done that, we can see in the files the ``RPI-RP2`` directory.
 
 2. We than have to insert in that the file that can be found in the Step1 folder.
-   The device will than automatically copy the file we just putted into it, unplug itself and re-connect as the ``CIRCUITPY``.
+   The device will than automatically copy the file we just putted into it, eject itself and re-connect as the ``CIRCUITPY``.
 
 3. We than have to delete everything inside the ``CIRCUITPY`` directory, copy everything inside Step2 folder and paste it inside the root of the ``CIRCUITPY``.
 
